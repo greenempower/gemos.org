@@ -1,0 +1,20 @@
+--- GEM OS Roadmap (draft) ---
+This is just aiming to be a list of broad milestones and potential versionings. GEM OS is a long term project with the goal of eventually becoming a big player in the systems space and to become integrated in other projects.
+
+
+#:
+- provide a working dev container which can generate deploy it's own dev vm (this can just be a very simple Linux installation)
+
+#:
+- complete very basic versions of the core modules (vm, registry, net, gfx)
+- create a very simple add that uses those modules
+
+#:
+- provide a layer such as comms for more complex apps/services/modules to communicate with each other
+- make basic implementations of more complex systems reguarding simulation, design algorithms, crypto and peer to peer communications
+
+#:
+- Create the first implementation of metalang. All code above the most basic modules should be written in metalang.
+
+#:
+- deploy a simple wiki at wiki.gemos.org

@@ -1,0 +1,7 @@
+--- gemos.org GEM OS note taking ---
+
+
+* I do think the system should assume virtualization as standard.
+  currently only the x86/64 family of processors and machines can be assumed to reliably support virtualization,
+  ARM cannot unless on high end server hardware
+  I believe that in the future powerful riscv64 processors with virtualization enabled will become common and assumed to be standard.

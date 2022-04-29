@@ -1,0 +1,13 @@
+--- GEM OS Draft Entries ---
+
+rootfw - framework deployed to root system which GEMx is installed
+
+root layer - this layer gets ported once for each platform so that everything above it doesn't need to be recompiled. small footprint layer which defines the lowest level interfaces and a JIT
+
+dev cnt - an lxc container deployed with a full development environment for GEM OS
+
+dev vm - the standard virtual machine img for doing development and testing, currently not much distinction between this and a fully deployed vm
+
+droid - an instance of GEM OS deployed natively to a smartphone
+
+monogem - subset of GEMx services installed over android as an APK

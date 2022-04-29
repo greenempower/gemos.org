@@ -1,0 +1,8 @@
+--- GEMOS Project ---
+
+GEMOS (Green Empower Operating System) is a project by GEM (greenempower.org).
+It is a system and extensible application platform environment.
+
+The first need for GEMOS comes as a system for packaging and distributing GEM applications and frameworks, using containers and VMs.
+
+Eventually I would like to see GEMOS as a viable consumer OS (+hardware) which can somewhat offset the dominance of corporate products, particularly Microsoft Windows and Google's Android.
